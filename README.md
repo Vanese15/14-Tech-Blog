@@ -52,7 +52,7 @@ Models
 
     * `id`: primary key
 
-    * `user_id`
+    * `username`
 
     * `post_id`
     * 
