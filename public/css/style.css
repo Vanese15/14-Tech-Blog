@@ -67,12 +67,16 @@
      background: rgba(48, 22, 22, 0.926);
      display: inline; 
      color: whitesmoke; 
-  
+
   }
   
   
   h1 {
-  
+    padding-top: 0px;
+     margin-right: 15px;
+     float: left;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 20px;
   }
   
   .footer {
@@ -80,7 +84,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color:rgba(48, 22, 22, 0.926);
     color: white;
     text-align: center;
   }
